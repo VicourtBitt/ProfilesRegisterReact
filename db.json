@@ -1,0 +1,19 @@
+{
+    "teste" : [
+        {
+            "id": 1,
+            "nome": "John Doe",
+            "idade": 20
+        }, 
+        {
+            "id": 2,
+            "nome": "Jane Smith",
+            "idade": 30
+        }, 
+        {
+            "id": 3,
+            "nome": "Michael Johnson",
+            "idade": 40
+        }
+    ]
+}
